@@ -1,12 +1,24 @@
 # <h1>Meu-Readme</h1>
- <h2>Esse repositório contém todos os meus projetos.</h2>
+ <h2>Bem-vindo(a) ao meu Repositório principal</h2>
  <br>
- <h3>Projetos desenvolvidos juntamento com o curso de HTML5 e CSS3 do <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">CursoemVindeo</a></h3>
- <ul>
-    <li>
-        <a href="https://eduardo-rodriguess.github.io/projeto-social/"> Projeto Rede Social</a>: Aplicação de MediaQuery.
-    </li>
-    <li>
-        <a href="https://eduardo-rodriguess.github.io/projeto-login/"> Projeto Rede Social
-    </li>
- </ul>
+<p>
+Esta página está dividida em duas sessões.<br>
+Na primeira seção estaram projetos de aprendizagem desenvolvidos através de cursos online.<br>
+Na segunda seção estaram páginas propostas como exercícios pelo meu professor.
+</p>
+<ul>
+    <h2>Seção 1</h2>
+    <p>Direitos reservados à <a href="">CursoemVideo</a></p>
+    <li><a href="https://eduardo-rodriguess.github.io/projeto-social/">Projeto Social
+    <li><a href="https://eduardo-rodriguess.github.io/projeto-login/">Projeto Login
+    <li><a href="https://eduardo-rodriguess.github.io/projeto-cordel/">Projeto Cordel
+    <li><a href="https://eduardo-rodriguess.github.io/projeto-android/">Projeto Android
+    <br>
+    <p>Direitos reservados à <a href="">Origamid</a></p>
+    <li><a href="https://eduardo-rodriguess.github.io/css-grid-origamid/wildbeast/">Projeto WildBeast
+</ul>
+<br>
+<ul>
+    <h2>Seção 1</h2>
+    <li><a href="">
+</ul>

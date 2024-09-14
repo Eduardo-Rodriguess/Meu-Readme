@@ -15,7 +15,7 @@ Na segunda seção estaram páginas propostas como exercícios pelo meu professo
     <li><a href="https://eduardo-rodriguess.github.io/projeto-android/" target="_blank">Projeto Android</a></li>
     <br>
     <p>Direitos reservados à <a href="">Origamid</a></p>
-    <li><a href="https://eduardo-rodriguess.github.io/css-grid-origamid/wildbeast/">Projeto WildBeast</a></li>
+    <li><a href="https://eduardo-rodriguess.github.io/css-grid-origamid/wildbeast/" target="_blank">Projeto WildBeast</a></li>
 </ul>
 <br>
 <ul>

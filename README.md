@@ -20,5 +20,5 @@ Na segunda seção estaram páginas propostas como exercícios pelo meu professo
 <br>
 <ul>
     <h2>Seção 2</h2>
-    <li><a href="/listadeesportes/index.html" target="_blank">Lista de Esportes</a></li>
+    <li><a href="https://eduardo-rodriguess.github.io/lista-de-esportes/" target="_blank">Lista de Esportes</a></li>
 </ul>

@@ -6,7 +6,7 @@ Esta página está dividida em duas sessões.<br>
 Na primeira seção estaram projetos de aprendizagem desenvolvidos através de cursos online.<br>
 Na segunda seção estaram páginas propostas como exercícios pelo meu professor.
 </p>
-<ul>
+<ul style="display: inline;">
     <h2>Seção 1</h2>
     <p>Direitos reservados à <a href="">CursoemVideo</a></p>
     <li><a href="https://eduardo-rodriguess.github.io/projeto-social/" target="_blank">Projeto Social</a>

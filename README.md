@@ -6,7 +6,7 @@ Esta página está dividida em duas sessões.<br>
 Na primeira seção estaram projetos de aprendizagem desenvolvidos através de cursos online.<br>
 Na segunda seção estaram páginas propostas como exercícios pelo meu professor.
 </p>
-<ul style="display: inline;">
+<ul>
     <h2>Seção 1</h2>
     <p>Direitos reservados à <a href="">CursoemVideo</a></p>
     <li><a href="https://eduardo-rodriguess.github.io/projeto-social/" target="_blank">Projeto Social</a></li>
@@ -18,7 +18,7 @@ Na segunda seção estaram páginas propostas como exercícios pelo meu professo
     <li><a href="https://eduardo-rodriguess.github.io/css-grid-origamid/wildbeast/">Projeto WildBeast</a></li>
 </ul>
 <br>
-<ul style="display: inline;">
+<ul>
     <h2>Seção 2</h2>
-    <li><a href="">Lista de Esportes</a></li>
+    <li><a href="#" target="_blank">Lista de Esportes</a></li>
 </ul>

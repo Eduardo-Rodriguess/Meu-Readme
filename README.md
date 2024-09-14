@@ -18,7 +18,7 @@ Na segunda seção estaram páginas propostas como exercícios pelo meu professo
     <li><a href="https://eduardo-rodriguess.github.io/css-grid-origamid/wildbeast/">Projeto WildBeast</a></li>
 </ul>
 <br>
-<ul>
+<ul style="display: inline;">
     <h2>Seção 2</h2>
     <li><a href="">Lista de Esportes</a></li>
 </ul>
